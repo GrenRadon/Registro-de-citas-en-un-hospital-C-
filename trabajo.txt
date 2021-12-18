@@ -1,0 +1,9 @@
+El sistema debe ser capaz de mantener los registros del paciente, visitas, turnos, diagnósticos, tratamientos
+observaciones, registros de los médicos, etc.
+Debe permitirle
+1. Añadir los registros de nuevos pacientes.
+2. 2. Añadir nuevos registros de Médicos
+3. Buscar pacientes, médicos
+4. Buscar el historial de visitas de los pacientes
+5. Mostrar los pacientes registrados en el sistema
+6. Imprimir la factura que incluye los detalles de la visita y el coste de cada servicio realizado
